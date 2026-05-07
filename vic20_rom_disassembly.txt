@@ -10806,15 +10806,15 @@ LAB_EC5E
 ; keyboard decode table - shifted
 
 LAB_EC9F
-	.byte	$21,$23,$25,$27,$29,$DB,$A9,$94
-	.byte	$5F,$D7,$D2,$D9,$C9,$D0,$C0,$8D
-	.byte	$04,$C1,$C4,$C7,$CA,$CC,$5D,$9D
-	.byte	$83,$01,$D8,$D6,$CE,$3C,$3F,$91
+	.byte	$21,$23,$25,$27,$29,$93,$DB,$94
+	.byte	$5F,$D7,$D2,$D9,$C9,$D0,$3D,$8D
+	.byte	$04,$C1,$C4,$C7,$CA,$CC,$5D,$91
+	.byte	$83,$01,$D8,$D6,$CE,$3C,$3F,$BA
 	.byte	$A0,$DA,$C3,$C2,$CD,$3E,$01,$89
-	.byte	$02,$D3,$C6,$C8,$CB,$5B,$3D,$8A
-	.byte	$D1,$C5,$D4,$D5,$CF,$BA,$DE,$8B
-	.byte	$22,$24,$26,$28,$30,$DD,$93,$8C
-	.byte	$FF
+	.byte	$02,$D3,$C6,$C8,$CB,$5B,$9D,$8A
+	.byte	$D1,$C5,$D4,$D5,$CF,$FF,$DE,$8B
+	.byte	$22,$24,$26,$28,$30,$A9,$DD,$8C
+	.byte	$C0
 
 ; keyboard decode table - commodore
 
