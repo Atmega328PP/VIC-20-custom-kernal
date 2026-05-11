@@ -10819,14 +10819,14 @@ LAB_EC9F
 ; keyboard decode table - commodore
 
 LAB_ECE0
-	.byte	$21,$23,$25,$27,$29,$A6,$A8,$94
-	.byte	$5F,$B3,$B2,$B7,$A2,$AF,$DF,$8D
+	.byte	$21,$23,$25,$27,$29,$13,$A6,$94
+	.byte	$5F,$B3,$B2,$B7,$A2,$AF,$3D,$8D
 	.byte	$04,$B0,$AC,$A5,$B5,$B6,$5D,$9D
 	.byte	$83,$01,$BD,$BE,$AA,$3C,$3F,$91
 	.byte	$A0,$AD,$BC,$BF,$A7,$3E,$01,$89
-	.byte	$02,$AE,$BB,$B4,$A1,$5B,$3D,$8A
-	.byte	$AB,$B1,$A3,$B8,$B9,$A4,$DE,$8B
-	.byte	$22,$24,$26,$28,$30,$DC,$93,$8C
+	.byte	$02,$AE,$BB,$B4,$A1,$5B,$1D,$8A
+	.byte	$AB,$B1,$A3,$B8,$B9,$5E,$DE,$8B
+	.byte	$22,$24,$26,$28,$30,$A8,$93,$8C
 	.byte	$FF
 
 
