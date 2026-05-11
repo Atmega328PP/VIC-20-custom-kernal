@@ -12,7 +12,8 @@ This is a little bit odd, the dissasembly that it's based off of will only assem
 # WIP
 
 This project is WIP, not everything works properly yet but it is being worked on continuously.
-TODO/Not currently functional:
+
+## TODO/Not currently functional:
 
 CTRL table
 Commodore table is a little bit questionable
