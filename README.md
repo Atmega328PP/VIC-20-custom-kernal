@@ -9,11 +9,7 @@ Curtesy to Lee Davison for the incredible complete BASIC+Kernal dissasembly, thi
 This is a little bit odd, the dissasembly that it's based off of will only assemble via Kowalski's 6502 Simulator assembler, it's a quality program that is currently required to build the ROM. The disassembly currently contains both the BASIC interpreter and the Kernal, these are on seperate chips physically so this requires them to be seperated before flashing. My current solution is to just assemble the entire file and then split the binary at $C004 with a hex editor. I am working on splitting the assembly to where it doesn't include the BASIC interpreter but currently it will assemble and function via this method.
 
 
-
-
-
-
-
+# WIP
 
 This project is WIP, not everything works properly yet but it is being worked on continuously.
 TODO/Not currently functional:
